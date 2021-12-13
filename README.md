@@ -23,7 +23,7 @@ The number of bikes used per day is broken down by gender and customer type. The
 This chart shows the peak hours in August by showing number of bikes used each hour. The peak hours are between 4PM and 7PM.
 ![numb_hour](images/numb_hour.png)
 
-Summary:
+## Summary
 Through our analysis we see consistant results showing there is a significant demographic towards men. We breakdown, utilization and days of use and see majority of users are male. This can drive our research as we continue to pursue the idea of a bikesharing app in Des Moines. I suggest further analysis to understand how we can promote our app towards our demographic. I would suggest the following visualizations to understand how to better promote design our app.
 - I would like to understand more about the locations of where bike apps are most popular. I would like see an analysis of a bargraph showing the bike stations and how often each one is accessed. I would like to see a visualization of this broken down by gender and by user type. This would help me to understand which stations recieve the most traction and how this could work in Des Moines.
 - I would also like to do more analysis on birth year and find our market age demographic. I suggest creating an area chart that shows bike utilization by birth year so we can track which age group has the most users. We could also break this down by gender to see if there are specific age groups of each gender that are more likely to use our app.
